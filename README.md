@@ -1,6 +1,7 @@
-<h1 align="center">when, never why<h1>
-
+<h1 align="center">always when, never why :(</h1>
+  
 Whendys is a small library used to get the time since a Date represented in an ~~edible~~ readable format.
+  
 > "8 hours ago"
 
 ## Example
